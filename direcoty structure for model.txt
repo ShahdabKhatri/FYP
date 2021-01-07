@@ -1,0 +1,28 @@
+	
+Same for super and sub models
+	|
+	|__(super)
+	|	|__1
+	|	|  |__1.jpeg
+	|	|  |__2.jpeg
+	|	|  |__n.jpeg
+	|       |
+	|	|__2
+	|	|  |__1.jpeg
+	|	|  |__2.jpeg
+	|	|  |__n.jpeg
+	|	|
+	|	|
+	|	|__N
+	|	|  |__1.jpeg
+	|	|  |__2.jpeg
+	|	|  |__n.jpeg
+	|       |
+	|	|__2
+	|	   |__1.jpeg
+	|	   |__2.jpeg
+	|	   |__n.jpeg
+	|
+	|
+	|
+	|__model.ipynb
